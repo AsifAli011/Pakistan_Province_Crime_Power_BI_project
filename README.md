@@ -75,3 +75,12 @@ From donut chart we seen that robbery in Sindh is the biggest problem due to soc
 
 ## Summary
 
+This dashboard presents crime trends across Pakistan’s provinces from 2012 to 2020. Key insights include:
+
+* Crime Distribution: Punjab recorded the highest crime rate (4M cases), followed by KPK (1M), Sindh (714K), and Balochistan (81K).
+* Crime Trends: Crime rates in Punjab and KPK show an upward trend over the years, while Sindh and Balochistan have relatively stable trends.
+Major Crimes:
+* Kidnapping/Abduction is the most prevalent crime, followed by Robbery, Burglary, and Murder.
+* KPK & Balochistan have a higher share of Murder and Kidnapping, likely influenced by conflict and instability.
+* Punjab & Sindh show higher cases of Robbery and Burglary, reflecting urban crime dynamics.
+
