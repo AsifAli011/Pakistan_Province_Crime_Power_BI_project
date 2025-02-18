@@ -43,17 +43,35 @@ Visualise the top 5 type crime rate through column chart;
 
 ![11](https://github.com/user-attachments/assets/664dbff1-6870-4293-a1a9-966a5fe7d754)
 
-After 9/11 happening alot of people were kidnapp,As abducting or kidnapping is the biggest problem in pakistan, as a result of power of Establishment and war after 9/11 alot of people were kidnapp specially in the province of KPK and Balochistan.
+After the 9/11 attacks, a large number of people were kidnapped, making abduction one of the biggest issues in Pakistan. Due to the influence of the establishment and the war that followed, kidnappings significantly increased, particularly in the provinces of Khyber Pakhtunkhwa (KPK) and Balochistan.
 
 #### *Fourth step:*
 
 Visualize the average total of each provice by the type of crime 
 
-![12](https://github.com/user-attachments/assets/7e1bfd30-8be0-412d-ac22-4d99dacc718f)
+ *Punjab*
+ 
+![13](https://github.com/user-attachments/assets/45eee120-2947-4333-9944-ca48112ee7a6)
+
+The donut chart shown that the kidnapping/abducting percentage is high than other because of largest province in population and weak law enforcement.
+
+*Khyber Pakhtunkhwa(KPK)*
+
+![14](https://github.com/user-attachments/assets/a3e3be09-41f6-46fb-9b2d-42b1fbc1c2bf)
+
+After the 9/11 attacks in the USA, the American government decided to take military action in Afghanistan. As a result of the war between the USA and the Afghan Taliban government, Pakistan's Khyber Pakhtunkhwa (KPK) province was significantly affected. According to the donut chart, the murder rate in KPK is noticeably higher compared to other crimes.
+
+*Sindh*
+
+![15](https://github.com/user-attachments/assets/6a9204b1-b8de-46c5-9cb9-d33dd194e75c)
+
+From donut chart we seen that robbery in Sindh is the biggest problem due to social inequality and lack of enducation in that province
 
 
 ## Final Dashboard
 
 ![8](https://github.com/user-attachments/assets/06bbfd95-87ae-4522-b46f-80971b9b3530)
 
+
+## Summary
 
